@@ -1,0 +1,13 @@
+C:/FlutterPJS/login_register_ui-master/build/windows/CMakeFiles/INSTALL.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/runner/CMakeFiles/login_register_ui.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/plugins/rive_common/CMakeFiles/rive_common_plugin.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/plugins/rive_common/CMakeFiles/INSTALL.dir
+C:/FlutterPJS/login_register_ui-master/build/windows/plugins/rive_common/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,99 @@
+{
+   "checksum": "fe1b285fa7d267e15acfd39c1f74908d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13320298962992595",
+            "date_last_used": "0",
+            "guid": "a8214345-2548-4e27-9f70-b925b4bd5730",
+            "id": "7",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13320298962992511",
+            "date_last_used": "0",
+            "guid": "93ac087f-f66c-4dc1-bcca-afd8f5148657",
+            "id": "6",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13320298962991867",
+            "date_last_used": "0",
+            "guid": "08ebac55-031f-4187-afd3-974fd44b6e75",
+            "id": "5",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829"
+         }, {
+            "date_added": "13317922012501724",
+            "date_last_used": "0",
+            "guid": "e260a412-e201-4a88-8b15-4ccfa66ff14c",
+            "id": "8",
+            "name": "Arm in IDA",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://iosgods.com/topic/4668-ida-tutorial-how-to-know-what-to-change-in-ida-in-order-to-make-your-hack-work/"
+         }, {
+            "date_added": "13317916531102539",
+            "date_last_used": "0",
+            "guid": "98e29b8f-e8aa-45ec-9698-6f51852da1d1",
+            "id": "9",
+            "name": "LLDB OffsetINida",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://iosgods.com/topic/144557-hack-without-subtracting-the-aslr-address-against-the-finder-address/"
+         }, {
+            "date_added": "13317921527489802",
+            "date_last_used": "0",
+            "guid": "3230e85f-ce4a-492f-8c93-a324821541a8",
+            "id": "10",
+            "name": "[TUTORIAL] How To Hack Using IDA - Tutorials - iOSGods",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://iosgods.com/topic/852-tutorial-how-to-hack-using-ida/"
+         } ],
+         "date_added": "13320298962792012",
+         "date_last_used": "0",
+         "date_modified": "13320303163273795",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320298962792013",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13320298962792014",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

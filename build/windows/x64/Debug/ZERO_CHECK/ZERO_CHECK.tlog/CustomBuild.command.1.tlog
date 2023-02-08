@@ -1,0 +1,10 @@
+^C:\FLUTTERPJS\LOGIN_REGISTER_UI-MASTER\BUILD\WINDOWS\CMAKEFILES\F91E517C830D0217856A8B3D1E422EAF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/FlutterPJS/login_register_ui-master/windows -BC:/FlutterPJS/login_register_ui-master/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/FlutterPJS/login_register_ui-master/build/windows/login_register_ui.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

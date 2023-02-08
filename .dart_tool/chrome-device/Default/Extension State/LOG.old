@@ -1,0 +1,4 @@
+2023/02/08-01:12:43.457 5650 Log #3: 0 ops saved to Table #4 OK
+2023/02/08-01:12:43.459 5650 Archiving C:\Users\guara\AppData\Local\Temp\flutter_tools.d5601505\flutter_tools_chrome_device.b5158d40\Default\Extension State/000003.log: OK
+2023/02/08-01:12:43.460 5650 Archiving C:\Users\guara\AppData\Local\Temp\flutter_tools.d5601505\flutter_tools_chrome_device.b5158d40\Default\Extension State/MANIFEST-000001: OK
+2023/02/08-01:12:43.463 5650 **** Repaired leveldb C:\Users\guara\AppData\Local\Temp\flutter_tools.d5601505\flutter_tools_chrome_device.b5158d40\Default\Extension State; recovered 0 files; 0 bytes. Some data may have been lost. ****

@@ -1,0 +1,4 @@
+#Wed Feb 08 07:46:59 BRT 2023
+base.0=C\:\\FlutterPJS\\login_register_ui-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
